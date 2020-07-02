@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My first Website</title>
+    <style>
+        h1{
+            color:palevioletred;
+            text-transform: uppercase;
+        }
+
+        p {
+            color:rgb(40, 31, 168);
+        }
+
+        ol {
+            color: rgb(163, 33, 33);
+        }
+
+        img {
+            width: 300px;
+            height: 200px;
+            object-fit: cover; 
+            transition: 2s;
+        }
+
+        img:hover {
+            width: 600px;
+        }
+
+    </style>
+</head>
+<body>
+    <h1> The News Today</h1>
+<p>Today, I taught a very interesting class.</p>
+<p>It was FUN.</p>
+<ol>
+  <li>The students asked me interesting questions.</li>
+  <li>I managed to find time to have a good lunch.</li>
+  <li>I also signed up for a free Intro to Coding course on GA.</li> </ol>
+<p>We also had a meeting today. </p>
+<p>I missed Kaya a lot. </p>
+<img src="https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.png"/>
+<p> </p>
+<img src="https://www.humanesociety.org/sites/default/files/styles/1240x698/public/2018/08/kitten-440379.jpg?h=c8d00152&itok=1fdekAh2"/>
+<p> </p>
+<a href="https://soundcloud.com/yingyi">Listen to my music here</a>
+</body>
+</html>
